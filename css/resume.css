@@ -61,6 +61,10 @@ p.lead {
   font-size: 1.2rem;
 }
 
+.subheading a{
+  text-transform: none;
+}
+
 .social-icons a {
   display: inline-block;
   height: 3.5rem;
