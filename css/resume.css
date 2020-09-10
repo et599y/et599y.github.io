@@ -189,3 +189,7 @@ a:hover, a:focus, a:active {
 .fa-ul>li {
   margin-bottom: 1em;
 }
+
+.watch {
+  color: #fff;
+}
